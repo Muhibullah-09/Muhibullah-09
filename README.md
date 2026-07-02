@@ -1,6 +1,10 @@
 # Muhib Kamali
 
-[LinkedIn: linkedin.com/in/muhibkamali](https://www.linkedin.com/in/muhibkamali/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhibkamali/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhib%20Kamali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Muhib Kamali" />
+  </a>
+</p>
 
 ![Profile header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:1d4ed8,100:0f766e&text=Muhib%20Kamali&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=CKA%20DevOps%20%2F%20Platform%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Terraform%20%7C%20SRE&descAlignY=58&descSize=18)
 
