@@ -1,5 +1,7 @@
 # Muhib Kamali
 
+[LinkedIn: linkedin.com/in/muhibkamali](https://www.linkedin.com/in/muhibkamali/)
+
 ![Profile header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:1d4ed8,100:0f766e&text=Muhib%20Kamali&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=CKA%20DevOps%20%2F%20Platform%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Terraform%20%7C%20SRE&descAlignY=58&descSize=18)
 
 [![Profile views](https://komarev.com/ghpvc/?username=Muhibullah-09&style=flat-square&color=2563eb)](https://github.com/Muhibullah-09)
@@ -10,6 +12,16 @@
 **CKA-certified DevOps / Platform Engineer** with 4+ years of experience building and operating production AWS infrastructure, Kubernetes platforms, Terraform automation, CI/CD pipelines, and observability workflows.
 
 I help SaaS and product teams ship safely, scale cleanly, reduce cloud waste, and keep production systems observable and maintainable.
+
+---
+
+## About Me
+
+I am a DevOps / Platform Engineer focused on the work that keeps production systems reliable: cloud infrastructure, Kubernetes platforms, CI/CD, observability, release automation, and cost control.
+
+Most of my work has been with AWS-based SaaS and product environments where teams need practical infrastructure, not just diagrams. I have worked on EKS deployments with Terraform and ArgoCD, ECS/Fargate migrations, monitoring with Prometheus/Grafana/ELK, cloud cost optimization, Linux/Nginx deployments, and internal automation that makes releases easier for developers.
+
+I enjoy the intersection of infrastructure and product engineering: turning a product into something that can be deployed, debugged, secured, monitored, and handed off cleanly.
 
 ---
 
