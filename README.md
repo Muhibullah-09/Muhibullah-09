@@ -13,9 +13,9 @@
 [![CKA](https://img.shields.io/badge/Certified-CKA%20Kubernetes%20Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com/)
 [![Open to work](https://img.shields.io/badge/Open%20to-DevOps%20%7C%20Platform%20%7C%20SRE-111827?style=flat-square)](https://www.linkedin.com/in/muhibkamali)
 
-**CKA-certified DevOps / Platform Engineer** with 4+ years of experience building and operating production AWS infrastructure, Kubernetes platforms, Terraform automation, CI/CD pipelines, and observability workflows.
+**CKA-Certified DevOps / Platform Engineer based in Pakistan.**
 
-I help SaaS and product teams ship safely, scale cleanly, reduce cloud waste, and keep production systems observable and maintainable.
+I help startups and SaaS teams build reliable, automated, secure, and cost-efficient AWS infrastructure using **Kubernetes, Terraform, CI/CD, GitOps, and observability**.
 
 ---
 
@@ -44,14 +44,16 @@ I enjoy the intersection of infrastructure and product engineering: turning a pr
 
 ---
 
-## What I Build
+## DevOps Services
 
-- Production AWS infrastructure for SaaS, affiliate, and product teams
-- Kubernetes/EKS platforms with Terraform and GitOps deployment workflows
-- CI/CD pipelines that make releases repeatable, visible, and safer
-- Monitoring and alerting stacks for real operational visibility
-- Cost-optimized cloud environments with cleaner networking and storage choices
-- Internal deployment tools that reduce manual release work for engineering teams
+- **AWS infrastructure setup and automation** for startups and SaaS teams
+- **Kubernetes / EKS deployment** with Terraform, Helm, ArgoCD, and GitOps workflows
+- **Terraform Infrastructure as Code** for repeatable environments
+- **CI/CD pipeline design** with GitHub Actions, Jenkins, CodePipeline, and CodeBuild
+- **Dockerization and container migration** from VM-based deployments to ECS/Fargate or EKS
+- **Monitoring and alerting** with Prometheus, Grafana, ELK, Trivy, and Slack alerts
+- **AWS cost optimization** through rightsizing, NAT review, storage lifecycle policies, and log archival
+- **DevSecOps scanning and hardening** for container and deployment workflows
 
 ---
 
@@ -116,30 +118,35 @@ I enjoy the intersection of infrastructure and product engineering: turning a pr
 
 ## Featured Work
 
-### Portaviq
+### Production EKS DevSecOps Platform
 
-Early Access SaaS workspace for WordPress agencies and multi-site operators. It helps teams see which WordPress sites are connected, verified, active, and receiving traffic from one clean workspace.
+Terraform, EKS, Jenkins, ArgoCD, Trivy, monitoring, and deployment automation for a production-style Kubernetes workflow.
 
-[![Portaviq Repo](https://github-readme-stats.vercel.app/api/pin/?username=Muhibullah-09&repo=portaviq.com&theme=github_dark&hide_border=true)](https://github.com/Muhibullah-09/portaviq.com)
+[![EKS DevSecOps Repo](https://github-readme-stats.vercel.app/api/pin/?username=Muhibullah-09&repo=eks-devsecops-project&theme=github_dark&hide_border=true)](https://github.com/Muhibullah-09/eks-devsecops-project)
 
 What this demonstrates:
 
-- Next.js App Router product with PostgreSQL and Prisma
-- Email OTP login and user-scoped organization/site access
-- WordPress plugin verification, heartbeat, and signed pageview tracking
-- S3 + CloudFront static marketing deployment plan
-- Terraform, AWS, DNS, SSL, SMTP, Nginx, and GitHub Actions release work
-- Product documentation for QA, SEO, compliance, deployment, and AI handoff
+- Kubernetes/EKS platform thinking
+- CI/CD and GitOps workflow design
+- Security scanning with Trivy
+- Production deployment and operational workflow awareness
 
-### DevOps / Cloud Repositories
+### Portaviq Infrastructure Case Study
+
+Portaviq is my SaaS product for WordPress agencies and multi-site operators. The product repo is private, but the work demonstrates real product infrastructure decisions: static marketing deployment, authenticated app deployment, PostgreSQL, DNS/SSL, SMTP, plugin delivery, CI/CD, and production handoff documentation.
+
+Public site: [portaviq.com](https://www.portaviq.com)
+
+### DevOps / Cloud Proof Repositories
 
 | Repository | What it shows |
 | --- | --- |
-| [eks-devsecops-project](https://github.com/Muhibullah-09/eks-devsecops-project) | Kubernetes, EKS, container delivery, DevSecOps workflow |
-| [jenkins-shared-libraries](https://github.com/Muhibullah-09/jenkins-shared-libraries) | Reusable Jenkins pipeline structure |
-| [aws-devops-2025](https://github.com/Muhibullah-09/aws-devops-2025) | AWS infrastructure and Terraform/HCL practice |
-| [distributed-saas-microservices-mern](https://github.com/Muhibullah-09/distributed-saas-microservices-mern) | SaaS architecture and service-oriented backend work |
-| [aws-cdk-python-learning](https://github.com/Muhibullah-09/aws-cdk-python-learning) | AWS CDK and Python-based infrastructure automation |
+| [eks-devsecops-project](https://github.com/Muhibullah-09/eks-devsecops-project) | EKS, Kubernetes, container delivery, DevSecOps workflow |
+| [aws-devops-2025](https://github.com/Muhibullah-09/aws-devops-2025) | AWS infrastructure, Terraform/HCL, and cloud operations practice |
+| [jenkins-shared-libraries](https://github.com/Muhibullah-09/jenkins-shared-libraries) | Reusable Jenkins pipeline components for standardized CI/CD |
+| [ecs-wordpress-aws](https://github.com/Muhibullah-09/ecs-wordpress-aws) | WordPress workload deployment on AWS ECS-style infrastructure |
+| [aws-todo-app-cdk](https://github.com/Muhibullah-09/aws-todo-app-cdk) | AWS CDK serverless app patterns with Lambda and cloud services |
+| [aws-cdk-python-learning](https://github.com/Muhibullah-09/aws-cdk-python-learning) | Python-based AWS CDK infrastructure automation |
 
 ---
 
